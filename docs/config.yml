@@ -1,0 +1,6 @@
+title: "My GitHub Website"
+description: "This is my description for my GitHub Pages website which was created by Hali Murphy who is part of SMU's CRCP 3320 Fall semester class."
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
