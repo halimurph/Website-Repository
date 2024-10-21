@@ -1,5 +1,3 @@
 title: "Hali's homepage"
 description: website
-remote_theme: jekyll-theme-minimal
-plugins:
-- jekyll-remote-theme
+
