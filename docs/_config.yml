@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Hali's homepage
+title: "Hali's homepage"
 description: website
+remote_theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme
